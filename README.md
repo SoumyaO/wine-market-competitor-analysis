@@ -1,5 +1,5 @@
 # Wine Market Competitor Analysis
-[Data](https://github.com/SoumyaO/wine-market-competitor-analysis/tree/main/data) | [Code](https://github.com/SoumyaO/wine-market-competitor-analysis/tree/main/code) | [Report](https://github.com/SoumyaO/wine-market-competitor-analysis/blob/main/Group5%20SMM750%20.pdf)
+[Data](https://github.com/SoumyaO/wine-market-competitor-analysis/tree/main/data) | [Code](https://github.com/SoumyaO/wine-market-competitor-analysis/tree/main/code) | [Report](https://github.com/SoumyaO/wine-market-competitor-analysis/blob/main/Report.pdf)
 
 ### Contributors
 [Linh Nyugen](https://github.com/jill-data)  
