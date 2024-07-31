@@ -14,3 +14,8 @@ We conducted a preliminary investigation of the wine market by analyzing online 
 As part of data cleaning missing values in the dataset were addressed and outliers handled. Feature engineering was done to improve the saliency of the features in the dataset, like calculating the age of the wine, one hot encoding of categorical variables, scoring of user ratings, scaling of prices based on quantities, de-skewing price values as log-price and creating country codes.
 
 Exploratory analysis and Visualisation was done to gain insights into the wine market such as price ranges and categories, most popular countries of origin, most popular ABV (alcohol content) categories by retailer, most popular ages of wine and most popular wine types.
+
+## Key Findings
+- Consider purchasing the major types of wines such as red wine and white wine to be the major offerring.
+- Wines with ABV below 12.5% and between 13.3% and 14.5% are popular.
+- Young wines are more popular as they are more economical to the consumer.
